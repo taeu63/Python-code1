@@ -1,0 +1,40 @@
+Python
+
+# 문자열
+count 문자 세기
+find 위치 알려주기
+index 위치 알려주기 (없는문자오류)
+join 문자 사이 삽입
+upper 대문자로 변경
+lower 소문자로 변경
+lstrip 왼쪽 공백 지움
+rstrip 오른쪽 공백 지움
+strip 양쪽 공백 지움
+replace 문자열 바꾸기
+split 문자열 나누기
+
+#리스트
+append 요소 추가
+sort 정렬
+reverse 뒤집기(역순)
+index 위치 찾기
+insert 위치 요소 삽입
+remove x첫번째 요소 제거
+pop 요소 끄집어 제거
+count x 개수
+extend 추가 확장
+
+#딕셔너리
+keys Key만 보기
+values Vlaue만 보기
+items Key Value 묶음
+clear Key Value 지움
+get Key -> Value 보기
+in 있는지 확인
+
+#for
+range x부터 y미만
+
+컴프리헨션 = [표현식 for 항목 in 반복가능객체 if 조건문]
+
+
